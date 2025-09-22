@@ -2,8 +2,8 @@
 // Конфигурация
 const ACCESS_TOKEN = 'ваш_токен_доступа';
 const CONFIRMATION_TOKEN = 'ваш_токен_подтверждения';
-const SECRET_KEY = 'ваш_секретный_ключ';
-const GROUP_ID = 'ваш_id_группы';
+const SECRET_KEY = 'vk1.a.Dufx89bZWB16Z1iltRmaORy5H4bVE4AKDIGFnK0CtmZtuNkXCIsTBjlpD_oKvZ4qzvLXTvIiU06g0TMVTSXJE6syP_QT0ITR_MzV-nDc55NWM85UrV5ghCTnBI0iTrVe_j1KedQUBwqQvYwufhkGZgUM67qulaXtKliw5ouqvF_ybvHYCYWAihaciJaZyvfwriItSqhzJQ5BG48evQgLBAч';
+const GROUP_ID = '232836641';
 
 // Обработка входящих данных
 $data = json_decode(file_get_contents('php://input'), true);
