@@ -1,8 +1,8 @@
 <?php
 // Конфигурация
-const ACCESS_TOKEN = 'ваш_токен_доступа';
-const CONFIRMATION_TOKEN = 'ваш_токен_подтверждения';
-const SECRET_KEY = 'vk1.a.Dufx89bZWB16Z1iltRmaORy5H4bVE4AKDIGFnK0CtmZtuNkXCIsTBjlpD_oKvZ4qzvLXTvIiU06g0TMVTSXJE6syP_QT0ITR_MzV-nDc55NWM85UrV5ghCTnBI0iTrVe_j1KedQUBwqQvYwufhkGZgUM67qulaXtKliw5ouqvF_ybvHYCYWAihaciJaZyvfwriItSqhzJQ5BG48evQgLBAч';
+const ACCESS_TOKEN = 'vk1.a.Dufx89bZWB16Z1iltRmaORy5H4bVE4AKDIGFnK0CtmZtuNkXCIsTBjlpD_oKvZ4qzvLXTvIiU06g0TMVTSXJE6syP_QT0ITR_MzV-nDc55NWM85UrV5ghCTnBI0iTrVe_j1KedQUBwqQvYwufhkGZgUM67qulaXtKliw5ouqvF_ybvHYCYWAihaciJaZyvfwriItSqhzJQ5BG48evQgLBAч';
+const CONFIRMATION_TOKEN = 'da252871';
+const SECRET_KEY = 'aa15klfcbz52';
 const GROUP_ID = '232836641';
 
 // Обработка входящих данных
